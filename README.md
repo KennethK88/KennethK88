@@ -1,16 +1,16 @@
-## Hi there 👋
+# Senior Software Developer | Embedded Systems | Verification & Integration
 
-<!--
-**KennethK88/KennethK88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Senior software developer with more than six years of experience in agile software development for real-time systems, focusing on embedded software implementation, integration, and verification across multiple test levels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My personal projects focus on C++, microcontrollers, and embedded Linux.
+
+## Technical Focus
+
+| Area | Technologies |
+|---|---|
+| Programming | C++, C |
+| Embedded Systems | ESP32, AVR (ATmega328P), Renesas RA4M1 |
+| Development | VS Code, PlatformIO, Git |
+| Testing & CI | Unity Test Framework, Unit & Integration Testing, GitHub Actions |
